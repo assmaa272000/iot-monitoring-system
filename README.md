@@ -22,6 +22,9 @@ An end-to-end IoT monitoring system using Node-RED, InfluxDB, and Grafana, deplo
    # Start Grafana
    sudo docker run -d -p 3000:3000 --name my-grafana grafana/grafana:latest
 
+### Project Overview
+This IoT Monitoring System was developed to demonstrate real-time data acquisition and visualization capabilities. Designed for smart agricultural applications, the system monitors environmental parameters (such as temperature) to optimize automated processes, ensuring efficient resource management and system reliability
+
 ## System Visuals
 
 ### Node-RED Flow
@@ -34,5 +37,3 @@ An end-to-end IoT monitoring system using Node-RED, InfluxDB, and Grafana, deplo
 ![Grafana](grafana.png)
 
 
-### Project Overview
-This IoT Monitoring System was developed to demonstrate real-time data acquisition and visualization capabilities. Designed for smart agricultural applications, the system monitors environmental parameters (such as temperature) to optimize automated processes, ensuring efficient resource management and system reliability.
