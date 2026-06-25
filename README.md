@@ -21,3 +21,14 @@ An end-to-end IoT monitoring system using Node-RED, InfluxDB, and Grafana, deplo
 
    # Start Grafana
    sudo docker run -d -p 3000:3000 --name my-grafana grafana/grafana:latest
+
+## System Visuals
+
+### Node-RED Flow
+![Node-RED Flow](Flow2.png)
+
+### InfluxDB Data
+![InfluxDB](Influxdb.png)
+
+### Grafana Dashboard
+![Grafana](grafana.png)
