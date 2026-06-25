@@ -36,4 +36,4 @@ This IoT Monitoring System was developed to demonstrate real-time data acquisiti
 ### Grafana Dashboard
 ![Grafana](grafana.png)
 
-
+Developed by Assmaa Magdy
